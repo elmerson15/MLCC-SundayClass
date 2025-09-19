@@ -29,7 +29,7 @@ class _NotificationDialogState extends State<NotificationDialog> {
 
 
   Future<http.Response?> sendNotificationToUser(List<String> tokenIdList, String contents, String heading) async {
-    const String apiKey = 'MDM1MzQyZjEtMzdhZC00OWY0LTg3NTQtNTE5ZDhmYTM3YTFh';  // Your OneSignal REST API key
+    const String apiKey = '';  // Your OneSignal REST API key
     print("dbb");
 
     try {
@@ -85,7 +85,7 @@ class _NotificationDialogState extends State<NotificationDialog> {
         TextButton(
           onPressed: () async {
 
-            // await sendNotificationToUser(["13ea2061-917b-4da3-9ded-8fbf40365260"],"","");
+            
             for(String key in list){
               await sendNotificationToUser([key.toString()], _notificationContent.text.toString(), _titleContent.text.toString());
             }
