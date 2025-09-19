@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "707858277312",
+    "firebase_url": "https://mlccsundayclass-default-rtdb.firebaseio.com",
+    "project_id": "mlccsundayclass",
+    "storage_bucket": "mlccsundayclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707858277312:android:0a6748065650e70ec55e25",
+        "android_client_info": {
+          "package_name": "com.example.mlccsundayclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7aKvi_pGsh1ZAS7Fo8Wg1SppWuehz_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707858277312:android:e05af409c03d5bd6c55e25",
+        "android_client_info": {
+          "package_name": "com.example.mllccsundayclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7aKvi_pGsh1ZAS7Fo8Wg1SppWuehz_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707858277312:android:da5dac2bc3cbdae2c55e25",
+        "android_client_info": {
+          "package_name": "com.mlcc.sundayclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7aKvi_pGsh1ZAS7Fo8Wg1SppWuehz_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
