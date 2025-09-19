@@ -14,3 +14,5 @@ The app features:
 - 📖 *Memory Verses*
 
 Additionally, you can track attendance effortlessly through this app. Thank you for your support! 🙏😊
+
+*Download link:* [Sunday School App](https://www.mediafire.com/file/wlfyxcvz37vz6pk/Sundayclass.apk/file)
