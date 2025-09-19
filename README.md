@@ -1,6 +1,6 @@
-# mllccsundayclass
+# SundayClass
 
-A new Flutter project.
+
 
 ## Getting Started
 
